@@ -1,4 +1,4 @@
-var hackathon_day = new Date(2019,1,9,10,00).getTime();
+var hackathon_day = new Date(2019,1,9,11,00).getTime();
         // var hackathon_day = new Date().getTime();
         var countDown = setInterval( function() {
             var currentTime = new Date().getTime();
